@@ -1,6 +1,6 @@
----
-
 <img src="https://komarev.com/ghpvc/?username=ako10sei&style=flat-square&color=blue" alt="Profile Views" />
+
+---
 
 <h1 align = "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=90&duration=2000&pause=1000&color=1FF724&background=000000F0&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Привет!;Меня+зовут+Александр+;Golang+developer" alt="Typing SVG" /></a>
@@ -16,11 +16,24 @@
 
 ---
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
   <a href="https://t.me/akkkotensssei">
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge" />
   </a>
+  <a href="mailto:sashalom666@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge" />
+  </a>
+  <a href="https://open.spotify.com/user/31v73pd2krvezqncs6todeehcx7m">
+    <img src="https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=spotify&logoColor=white" alt="Spotify Badge" />
+  </a>
+  <a href="https://www.instagram.com/a.gubanovkin/">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" />
+  </a>
+  <a href="https://www.reddit.com/user/ako10sei/">
+    <img src="https://img.shields.io/badge/-Reddit-FF4500?style=flat&logo=reddit&logoColor=white" alt="Reddit Badge" />
+  </a>
 </p>
+
 
 ---
 
@@ -133,6 +146,22 @@
 
 ---
 
+<h3>🏆 Достижения и навыки</h3>
+
+<ul>
+  <li>Опыт работы с высоконагруженными проектами, включая интеграцию внешних сервисов через <strong>REST API</strong></li>
+  <li>Использование и настройка систем динамической документации: <strong>OpenAPI</strong> и <strong>Swagger</strong></li>
+  <li>Разработка клиент-серверных приложений для <strong>Linux</strong>-систем</li>
+  <li>Проведение <strong>code-review</strong> для улучшения качества кода и поддержания высоких стандартов</li>
+  <li>Стандартизация <strong>code-style</strong> в проектах на <strong>Golang</strong> и внутренних фреймворках на <strong>Python</strong></li>
+  <li>Настройка <strong>CI/CD</strong> процессов для проектов на <strong>Bitbucket</strong> и <strong>GitHub</strong></li>
+  <li>Внедрение профилировщиков для мониторинга производительности и нагрузки на <strong>API</strong> в проектах</li>
+</ul>
+
+---
+
+---
+
 ### 📈 GitHub Статистика
 
 <div align="center">
@@ -159,19 +188,5 @@
     </tr>
   </table>
 </div>
-
----
-
-<h3>🏆 Достижения и навыки</h3>
-
-<ul>
-  <li>Опыт работы с высоконагруженными проектами, включая интеграцию внешних сервисов через <strong>REST API</strong></li>
-  <li>Использование и настройка систем динамической документации: <strong>OpenAPI</strong> и <strong>Swagger</strong></li>
-  <li>Разработка клиент-серверных приложений для <strong>Linux</strong>-систем</li>
-  <li>Проведение <strong>code-review</strong> для улучшения качества кода и поддержания высоких стандартов</li>
-  <li>Стандартизация <strong>code-style</strong> в проектах на <strong>Golang</strong> и внутренних фреймворках на <strong>Python</strong></li>
-  <li>Настройка <strong>CI/CD</strong> процессов для проектов на <strong>Bitbucket</strong> и <strong>GitHub</strong></li>
-  <li>Внедрение профилировщиков для мониторинга производительности и нагрузки на <strong>API</strong> в проектах</li>
-</ul>
 
 ---
