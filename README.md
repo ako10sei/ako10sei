@@ -1,19 +1,6 @@
-<h1 align="center">Привет! 👋 Меня зовут Алекандр</h1>
-<h3 align="center">Backend разработчик с опытом в Python, Django и Golang</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ako10sei&style=flat-square&color=blue" alt="Количество просмотров профиля" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ako10sei&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ako10sei&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
-
----
+<h1 align = "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=90&duration=2000&pause=1000&color=1FF724&background=000000F0&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!;%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%BD%D0%B0%D0%B4%D1%80+;Golang+developer" alt="Typing SVG" /></a>
+</h1>
 
 ### 💻 О себе
 Я опытный backend-разработчик с более чем 2 годами работы в области системной интеграции, автоматизации бизнес-процессов и разработки высоконагруженных приложений. Специализируюсь на разработке решений с использованием Python, Django и Golang.
@@ -34,6 +21,19 @@
 - **[RESTFull API сервис на Golang. Пет-проект изучения архитектуры внутри языка](https://github.com/ako10sei/RESTFullGolang)** 
 
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ako10sei&style=flat-square&color=blue" alt="Количество просмотров профиля" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ako10sei&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ako10sei&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
+
 
 ### 🛠️ Технологический стек
 - **Языки:** Python (2.7, 3.7-3.10), Golang (1.18-1.23), SQL, C++
