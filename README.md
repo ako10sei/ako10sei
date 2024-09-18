@@ -16,24 +16,47 @@
 
 ---
 
-<p align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+<p align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap; padding: 0 10px;">
   <a href="https://t.me/akkkotensssei">
-    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge" />
+    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge" style="margin: 5px;" />
   </a>
   <a href="mailto:sashalom666@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge" />
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge" style="margin: 5px;" />
   </a>
   <a href="https://open.spotify.com/user/31v73pd2krvezqncs6todeehcx7m">
-    <img src="https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=spotify&logoColor=white" alt="Spotify Badge" />
+    <img src="https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=spotify&logoColor=white" alt="Spotify Badge" style="margin: 5px;" />
   </a>
   <a href="https://www.instagram.com/a.gubanovkin/">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" />
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" style="margin: 5px;" />
   </a>
   <a href="https://www.reddit.com/user/ako10sei/">
-    <img src="https://img.shields.io/badge/-Reddit-FF4500?style=flat&logo=reddit&logoColor=white" alt="Reddit Badge" />
+    <img src="https://img.shields.io/badge/-Reddit-FF4500?style=flat&logo=reddit&logoColor=white" alt="Reddit Badge" style="margin: 5px;" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="margin: 5px;" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge" style="margin: 5px;" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge" style="margin: 5px;" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube Badge" style="margin: 5px;" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok Badge" style="margin: 5px;" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook Badge" style="margin: 5px;" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord Badge" style="margin: 5px;" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://img.shields.io/badge/-Pinterest-E60023?style=flat&logo=pinterest&logoColor=white" alt="Pinterest Badge" style="margin: 5px;" />
   </a>
 </p>
-
 
 ---
 
