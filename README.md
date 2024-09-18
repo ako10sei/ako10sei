@@ -2,9 +2,9 @@
 
 ---
 
-<h1 align = "center">
+<h3 align = "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=90&duration=2000&pause=1000&color=1FF724&background=000000F0&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Привет!;Меня+зовут+Александр+;Golang+developer" alt="Typing SVG" /></a>
-</h1>
+</h3>
 
 ---
 
@@ -77,7 +77,7 @@
 
 ---
 
-<h2> 🛠️ Технологический стек Middle Golang Developer </h2>
+<h3> 🛠️ Технологический стек </h3>
 
 <p>
   <strong>💻 Языки программирования:</strong> <br>
