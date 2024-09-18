@@ -45,13 +45,7 @@
     <img src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube Badge" style="margin: 5px;" />
   </a>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img src="https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok Badge" style="margin: 5px;" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook Badge" style="margin: 5px;" />
-  </a>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-    <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord Badge" style="margin: 5px;" />
   </a>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
     <img src="https://img.shields.io/badge/-Pinterest-E60023?style=flat&logo=pinterest&logoColor=white" alt="Pinterest Badge" style="margin: 5px;" />
