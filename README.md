@@ -25,7 +25,7 @@
   <a href="https://t.me/akkkotensssei">
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge" />
   </a>
----
+</p>
 
 ### 🚀 Текущие проекты
 - **[HTTP клиент-серверное приложение. Golang](https://github.com/ako10sei/goHTTP)**
