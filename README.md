@@ -26,7 +26,7 @@
 - **[HTTP клиент-серверное приложение. Golang](https://github.com/ako10sei/goHTTP)**
 - **[Обновление данных сервиса с динамически построенным телом запроса из внешнего API. Golang](https://github.com/ako10sei/updateDataService)**
 - **[Шаблон проектов Golang.](https://github.com/ako10sei/GolangBaseTemplate)**
-- **[RESTFull API сервис на Golang. Пет-проект изучения архитектуры внутри языка](https://github.com/ako10sei/RESTFullGolang)** 
+- **[RESTFul API сервис на Golang. Пет-проект изучения архитектуры внутри языка](https://github.com/ako10sei/RESTFullGolang)** 
 
 ---
 
