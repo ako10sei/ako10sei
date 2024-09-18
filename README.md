@@ -29,11 +29,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ako10sei&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ako10sei&layout=compact&theme=radical" alt="Most Used Languages" />
-</p>
-
-
 
 ### 🛠️ Технологический стек
 - **Языки:** Python (2.7, 3.7-3.10), Golang (1.18-1.23), SQL, C++
