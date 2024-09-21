@@ -73,6 +73,18 @@
     <strong><a href="https://github.com/ako10sei/RESTFullGolang">RESTful API сервис на Golang (учебный проект)</a></strong><br>
     Исследование архитектуры и внутренних компонентов Golang на примере построения RESTful API. Проект демонстрирует эффективную работу с маршрутизацией, авторизацией и базами данных.
   </li>
+   <li>
+    <strong><a href="https://github.com/ako10sei/gRPC">gRPC сервис на Golang (учебный проект)</a></strong><br>
+    Исследование архитектуры и внутренних компонентов Golang на примере построения gRPC.
+  </li>
+   <li>
+    <strong><a href="https://github.com/ako10sei/auth">gRPC AUTH сервис на Golang (учебный проект)</a></strong><br>
+     Авторизация пользователей.
+  </li>
+   <li>
+    <strong><a href="https://github.com/ako10sei/chat-server">gRPC чат-сервер сервис на Golang (учебный проект)</a></strong><br>
+      Чат. 
+  </li>
 </ul>
 
 ---
