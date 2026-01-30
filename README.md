@@ -1,15 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=ako10sei&style=flat-square&color=blue" alt="Profile Views" />
 
----
-
-<h3 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=90&duration=2000&pause=1000&color=1FF724&background=000000F0&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Привет!;Меня+зовут+Александр+;Golang+developer" alt="Typing SVG" /></a>
-</h3>
-
----
-
 ### 💻 О себе
-Я опытный backend-разработчик с более чем 2 годами работы в области системной интеграции, автоматизации бизнес-процессов и разработки высоконагруженных приложений. Специализируюсь на разработке решений с использованием Python, Django и Golang.
+Я backend-разработчик с более чем 2 годами работы в области системной интеграции, автоматизации бизнес-процессов и разработки высоконагруженных приложений. Специализируюсь на разработке решений с использованием Python, Django и Golang.
 
 - 🌍 Местоположение: Владимир, Россия
 - ⚡ Интересные факты: Увлекаюсь оптимизацией API-запросов и разработкой RESTful сервисов. Изучаю протокол gRPC и сравниваю уровень изоляции применения каждой новой технологии!
