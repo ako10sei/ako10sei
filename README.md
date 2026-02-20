@@ -61,10 +61,6 @@
     <strong><a href="https://github.com/ako10sei/GolangBaseTemplate">Шаблон проектов на Golang</a></strong><br>
     Базовый шаблон для старта разработки проектов на Go, включающий стандартную структуру каталогов, настройки CI/CD и примеры кода.
   </li>
-  <li>
-    <strong><a href="https://github.com/ako10sei/RESTFullGolang">RESTful API сервис на Golang (учебный проект)</a></strong><br>
-    Исследование архитектуры и внутренних компонентов Golang на примере построения RESTful API. Проект демонстрирует эффективную работу с маршрутизацией, авторизацией и базами данных.
-  </li>
    <li>
     <strong><a href="https://github.com/ako10sei/gRPC">gRPC сервис на Golang (учебный проект)</a></strong><br>
     Исследование архитектуры и внутренних компонентов Golang на примере построения gRPC.
